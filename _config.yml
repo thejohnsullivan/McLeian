@@ -9,7 +9,7 @@ title:            Thinny
 tagline:          'blog'
 description:      'My personal blog.'
 url:              http://camporez.github.io
-baseurl:          
+baseurl:          /McLeian
 commentsystem:    google
 disqus:           example
 
