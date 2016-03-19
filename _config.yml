@@ -20,8 +20,8 @@ author:
 paginate:         5
 
 # Custom vars
-icon:             /assets/images/icon.png
-cover:            /assets/images/cover.jpg
+icon:             /McLeian/assets/images/icon.png
+cover:            /McLeian/assets/images/cover.jpg
 
 social:
   - icon:         twitter
@@ -42,10 +42,10 @@ social:
 
 menu:
   - title:        Home
-    url:          /
+    url:          /McLeian
 
   - title:        About
-    url:          /about
+    url:          /McLeian/about
 
 copyright:
   author:         Camporez
