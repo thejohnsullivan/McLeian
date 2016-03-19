@@ -5,17 +5,17 @@ permalink:	/blog/:title
 gems:
   - jekyll-paginate
 # Setup
-title:            Thinny
+title:            Mac's Photography
 tagline:          'blog'
 description:      'My personal blog.'
-url:              http://thejohnsullivan.github.io
+url:              http://thejohnsullivan.github.io/McLeian
 baseurl:          /McLeian
 commentsystem:    google
 disqus:           example
 
 author:
-  name:           Ian Brunelli
-  url:            https://google.com/+IanCamporezBrunelli
+  name:           Mac Caudilla
+  url:            https://google.com/
 
 paginate:         5
 
