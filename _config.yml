@@ -14,7 +14,7 @@ commentsystem:    google
 disqus:           example
 
 author:
-  name:           Mac Caudilla
+  name:           McLeian Caudilla
   url:            https://mcleian.com/
 
 paginate:         5
@@ -50,7 +50,19 @@ menu:
     url:          /
 
   - title:        About
-    url:          /about
+    url:          /whatisthis
+    
+  - title:        Journal
+    url:          /penandpaper
+    
+  - title:        Photography
+    url:          /lens
+    
+  - title:        Travel
+    url:          /passport
+    
+  - title:        Music
+    url:          /playlist
 
 copyright:
   author:         Camporez
