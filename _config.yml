@@ -26,8 +26,8 @@ cover:            /assets/images/cover.jpg
 ### availavle icons at: https://genericons.com/
 social:
   - icon:         twitter
-    url:          https://twitter.com/iancamporez
-    desc:         Follow me on twitter
+    url:          https://twitter.com/amcmac
+    desc:         follow me on twitter
 
   - icon:         instagram
     url:          http://instagram.com/amcmac
@@ -40,6 +40,10 @@ social:
   - icon:         youtube
     url:          http://youtube.com/c/McLeianCaudilla
     desc:         subscribe
+    
+  - icon:         vimeo
+    url:          http://vimeo.com/mcleian
+    desc:         watch
     
 menu:
   - title:        Home
