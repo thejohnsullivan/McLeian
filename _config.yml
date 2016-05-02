@@ -5,7 +5,7 @@ permalink:	/blog/:title
 gems:
   - jekyll-paginate
 # Setup
-title:            Mac's Photography
+title:            MCLEIAN
 tagline:          'blog'
 description:      'My personal blog.'
 url:              mcleian.com
