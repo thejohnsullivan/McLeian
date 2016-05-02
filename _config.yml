@@ -36,12 +36,8 @@ social:
     url:          https://google.com/+IanCamporezBrunelli
     desc:         Add me on google+
 
-  - icon:         feed
-    url:          http://camporez.github.io/atom.xml
-    desc:         Subscribe to my feed
-    
   - icon:         instagram
-    url:          http://intsagram.com/amcmac
+    url:          http://instagram.com/amcmac
     desc:         follow me plz
 
   - icon:         vsco
