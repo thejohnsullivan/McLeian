@@ -8,20 +8,20 @@ gems:
 title:            Mac's Photography
 tagline:          'blog'
 description:      'My personal blog.'
-url:              http://thejohnsullivan.github.io/
-baseurl:          /McLeian
+url:              mcleian.com
+baseurl:          /
 commentsystem:    google
 disqus:           example
 
 author:
   name:           Mac Caudilla
-  url:            https://google.com/
+  url:            https://mcleian.com/
 
 paginate:         5
 
 # Custom vars
-icon:             /McLeian/assets/images/icon.png
-cover:            /McLeian/assets/images/cover.jpg
+icon:             /assets/images/icon.png
+cover:            /assets/images/cover.jpg
 
 social:
   - icon:         twitter
@@ -42,10 +42,10 @@ social:
 
 menu:
   - title:        Home
-    url:          /McLeian
+    url:          /
 
   - title:        About
-    url:          /McLeian/about
+    url:          /about
 
 copyright:
   author:         Camporez
