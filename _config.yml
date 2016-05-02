@@ -41,9 +41,13 @@ social:
     desc:         Subscribe to my feed
     
   - icon:         instagram
-    url:          intsagram.com/amcmac
+    url:          http://intsagram.com/amcmac
     desc:         follow me plz
 
+  - icon:         vsco
+    url:          http://amcmac.vsco.co
+    desc:         
+    
 menu:
   - title:        Home
     url:          /
