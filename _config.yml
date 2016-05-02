@@ -44,6 +44,10 @@ social:
     url:          http://amcmac.vsco.co
     desc:         
     
+  - icon:         youtube
+    url:          http://youtube.com/c/McLeianCaudilla
+    desc:         subscribe
+    
 menu:
   - title:        Home
     url:          /
