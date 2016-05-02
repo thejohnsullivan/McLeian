@@ -39,6 +39,10 @@ social:
   - icon:         feed
     url:          http://camporez.github.io/atom.xml
     desc:         Subscribe to my feed
+    
+  - icon:         instagram
+    url:          intsagram.com/amcmac
+    desc:         follow me plz
 
 menu:
   - title:        Home
