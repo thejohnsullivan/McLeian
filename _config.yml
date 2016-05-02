@@ -9,7 +9,7 @@ title:            Mac's Photography
 tagline:          'blog'
 description:      'My personal blog.'
 url:              mcleian.com
-baseurl:          /
+baseurl:          
 commentsystem:    google
 disqus:           example
 
