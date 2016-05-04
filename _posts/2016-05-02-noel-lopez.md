@@ -9,8 +9,7 @@ comments: true
 theme_color:  302F2D
 ---
 
-image:
-      url:  /assets/images/noel6.JPG
+{% include image.html url="/assets/images/noel6.JPG" %}
 
 ## "UNTITLED"
 
