@@ -9,7 +9,8 @@ comments: true
 theme_color:  302F2D
 ---
 
-{% include image.html url="McLeian/assets/images/noel6.JPG" width="100%"%}
+image:
+      url:  /assets/images/noel6.JPG
 
 ## "UNTITLED"
 
