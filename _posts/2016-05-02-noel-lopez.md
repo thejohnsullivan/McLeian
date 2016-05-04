@@ -9,7 +9,8 @@ comments: true
 theme_color:  302F2D
 ---
 
-image:      /assets/images/noel6.JPG
+image:
+      url:  /assets/images/noel6.JPG
 
 ## "UNTITLED"
 
