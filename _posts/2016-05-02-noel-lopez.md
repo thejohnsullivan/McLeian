@@ -21,6 +21,7 @@ This is a **photo installment-slash-series** (and journal entry for an upcoming 
 
 ### NOEL LOPEZ
 
-:------------------------------------------------------|------------------------------------------------------:
-{% include image.html url="/assets/images/noel4.JPG" %}|{% include image.html url="/assets/images/noel9.JPG" %}
-
+<figure class="half">
+	<img src="/assets/images/noel4.JPG">
+	<img src="/assets/images/noel9.JPG">
+</figure>
