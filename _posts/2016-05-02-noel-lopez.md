@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Noel Lopez"
-quote:  "The beginning is always today."
+quote:  <strong"The beginning is always today.">
 image:
       url:  /assets/images/noel7.JPG
 video:  false
