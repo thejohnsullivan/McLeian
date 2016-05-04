@@ -25,3 +25,5 @@ This is a **photo installment-slash-series** (and journal entry for an upcoming 
 	<img src="/assets/images/noel4.JPG">
 	<img src="/assets/images/noel9.JPG">
 </figure>
+
+!(/assets/images/noel4.JPG) !(/assets/images/noel9.JPG)
