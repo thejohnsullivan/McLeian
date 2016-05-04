@@ -22,6 +22,6 @@ This is a **photo installment-slash-series** (and journal entry for an upcoming 
 ### NOEL LOPEZ
 
 <section>
-	<img width="300" src="/assets/images/noel4.JPG">
-	<img width="300" src="/assets/images/noel9.JPG">
+	<img width="350" src="/assets/images/noel4.JPG">
+	<img width="350" src="/assets/images/noel9.JPG">
 </section>
