@@ -20,3 +20,8 @@ This is a **photo installment-slash-series** (and journal entry for an upcoming 
 ## WEEK ONE
 
 ### NOEL LOPEZ
+
+---
+{% include image.html url="/assets/images/noel4.JPG" %}
+{% include image.html url="/assets/images/noel9.JPG" %}
+---
