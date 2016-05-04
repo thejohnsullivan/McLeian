@@ -6,7 +6,6 @@ image:
       url:  /assets/images/noel7.JPG
 video:  false
 comments: true
-permalink:	/penandpaper/noel
 theme_color:  302F2D
 ---
 
