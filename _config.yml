@@ -27,7 +27,7 @@ cover:            /assets/images/cover.jpg
 social:
   - icon:         twitter
     url:          https://twitter.com/amcmac
-    desc:         follow me on twitter
+    desc:         follow me plz
 
   - icon:         instagram
     url:          http://instagram.com/amcmac
@@ -53,7 +53,7 @@ menu:
     url:          /whatisthis
     
   - title:        Journal
-    url:          /penandpaper
+    permalink:          /penandpaper
     
   - title:        Photography
     url:          /lens
