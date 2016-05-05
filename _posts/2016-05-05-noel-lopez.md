@@ -17,9 +17,9 @@ This is a **photo installment-slash-series** (and journal entry for an upcoming 
 
 {% include image.html url="/assets/images/noel12.JPG" %}
 
-## WEEK ONE
+### WEEK ONE
 
-### NOEL LOPEZ
+#### NOEL LOPEZ
 
 <section>
 	<img width="49%" src="/assets/images/noel4.JPG">
