@@ -2,6 +2,7 @@
 layout: post
 title:  "Noel Lopez"
 quote:  "The beginning is always today."
+permanlink:	/penandpaper/
 image:
       url:  /assets/images/noel7.JPG
 video:  false
