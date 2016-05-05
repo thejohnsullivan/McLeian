@@ -45,7 +45,7 @@ social:
     url:          http://vimeo.com/mcleian
     desc:         watch
     
-  - content:      '\f515';
+  - icon:         <span class="genericon genericon-spotify"></span>
     url:          https://open.spotify.com/user/1210230561
     desc:         listen
     
