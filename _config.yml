@@ -2,7 +2,6 @@
 markdown:	kramdown
 # Permalinks
 permalink:	/blog/:title
-permalink:  /penandpaper/:title
 gems:
   - jekyll-paginate
 # Setup
@@ -45,6 +44,10 @@ social:
   - icon:         vimeo
     url:          http://vimeo.com/mcleian
     desc:         watch
+    
+  - icon:         spotify
+    url:          https://open.spotify.com/user/1210230561
+    desc:         listen
     
 menu:
   - title:        Home
