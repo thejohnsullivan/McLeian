@@ -45,7 +45,7 @@ social:
     url:          http://vimeo.com/mcleian
     desc:         watch
     
-  - icon:         f515
+  - content:      '\f515';
     url:          https://open.spotify.com/user/1210230561
     desc:         listen
     
