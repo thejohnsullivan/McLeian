@@ -24,8 +24,8 @@ This is a **photo installment-slash-series-slash-journal** that I have been thin
 A Chicago native, he moved to Boston for college and after graduating he began working in social work. Some of the things he enjoys are the outdoors, kids, and singing. But aside from his thirst for adventure, his eagerness to help children, and his passion for music, his love for God absolutely exceeds.
 
 <section>
+	<img width="49%" src="/assets/images/noel5.JPG">
 	<img width="49%" src="/assets/images/noel4.JPG">
-	<img width="49%" src="/assets/images/noel9.JPG">
 </section>
 
 One of the funniest and earliest memories I have with Noel happened when he started praying for a friendship between the two of us and all I could do was laugh. In that moment I thought it was kind of stupid, and I still joke about it with mentions of “Wow, I’m so glad we’ve formed this great acquaintanceship,” but I knew he was very serious since he just recently moved in with me at the time (and became an official **RoxBro**). I may have not appreciated that prayer then, but I definitely do now.
@@ -36,7 +36,7 @@ If you know me then you know how reserved I can be or how challenging for me it 
 
 Through the uphill battles and at the roadblocks I find myself in, Noel has gone out of his way many times to prove that I can confide in him. Although we are roommates, we made it a task to get to know each other as brothers-in-Christ on Tuesday nights but more importantly to enjoy the $1 per taco deal (not bad for some brotherly time).
 
-{% include image.html url="/assets/images/noel5.JPG" %}
+{% include image.html url="/assets/images/noel9.JPG" %}
 
 Occasionally, I like to say to say that one of his purposes in life is to make me cry and it’s not one of those “make me laugh until I cry” things but to actually help me figure out how I feel about certain things even if at times they can feel heavy. He is able to constantly reassure me that I don’t have to carry my cross every single day lonesome and that, at times, he's willing to carry the heavy load.
 
