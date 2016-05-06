@@ -55,18 +55,6 @@ menu:
 
   - title:        About
     url:          /whatisthis
-    
-  - title:        Journal
-    url:          /penandpaper
-    
-  - title:        Photography
-    url:          /lens
-    
-  - title:        Travel
-    url:          /passport
-    
-  - title:        Music
-    url:          /playlist
 
 copyright:
   author:         Camporez
