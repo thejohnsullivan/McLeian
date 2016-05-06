@@ -36,7 +36,7 @@ If you know me then you know how reserved I can be or how challenging for me it 
 
 Through the uphill battles and at the roadblocks I find myself in, Noel has gone out of his way many times to prove that I can confide in him. Although we are roommates, we made it a task to get to know each other as brothers-in-Christ on Tuesday nights but more importantly to enjoy the $1 per taco deal (not bad for some brotherly time).
 
-{% include image.html url="/assets/images/noel9.JPG" %}
+{% include image.html url="/assets/images/noel5.JPG" %}
 
 Occasionally, I like to say to say that one of his purposes in life is to make me cry and it’s not one of those “make me laugh until I cry” things but to actually help me figure out how I feel about certain things even if at times they can feel heavy. He is able to constantly reassure me that I don’t have to carry my cross every single day lonesome and that, at times, he's willing to carry the heavy load.
 
