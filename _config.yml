@@ -33,7 +33,7 @@ social:
     url:          http://instagram.com/amcmac
     desc:         follow me plz
 
-  - icon:         image
+  - icon:         /assets/images/vscologo.jpg
     url:          http://amcmac.vsco.co
     desc:         my vsco grid
     
