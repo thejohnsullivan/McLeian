@@ -11,15 +11,15 @@ theme_color:  302F2D
 
 {% include image.html url="/assets/images/noel6.JPG" %}
 
-## "THEY ARE THE ONES"
+## <center>"THEY ARE THE ONES"</center>
 
 This is a **photo installment-slash-series-slash-journal** that I have been thinking of creating for some time now, not only to celebrate these lives and the amazing humans that live them but to also share the effect they’ve had on my own life and on the journey that I am willing to take on and finish along with them. Since I am usually not fond of nor quite great and eloquent in speaking high praises of people aloud, I thought this was second best and what made the most sense in order to put out the thoughts I have about these special people I’m lucky to know and the ones that have inspired me, so far, along the way.
 
 {% include image.html url="/assets/images/noel12.JPG" %}
 
-### WEEK ONE
+### <center>WEEK ONE</center>
 
-#### NOEL LOPEZ
+#### <center>NOEL LOPEZ</center>
 
 A Chicago native, he moved to Boston for college and after graduating he began working in social work. Some of the things he enjoys are the outdoors, kids, and singing. But aside from his thirst for adventure, his eagerness to help children, and his passion for music, his love for God absolutely exceeds.
 
