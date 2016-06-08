@@ -28,8 +28,8 @@ Before coming to the US to attend Northeastern University to pursue a degree in 
 We met about two years ago when he came into the Boston Campus Ministry as a freshman. Honestly, I don’t remember when we became friends but I think we’ve become great enough friends to tolerate each other’s company for a whole week in LA.
 
 <section>
-	<img width="49%" src="/assets/images/malcolm6.JPG">
-	<img width="49%" src="/assets/images/malcolm7.JPG">
+	<img width="47%" src="/assets/images/malcolm6.JPG">
+	<img width="51%" src="/assets/images/malcolm7.JPG">
 </section>
 
 Some things he enjoys: music, traveling, cold brew and horchata. You won’t believe how much horchata he had while we were in LA; I lost count after 10…
