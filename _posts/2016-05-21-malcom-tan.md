@@ -9,7 +9,7 @@ comments: true
 theme_color:  302F2D
 ---
 
-{% include image.html url="/assets/images/malcolm2.JPG" %}
+{% include image.html url="/assets/images/malcolm2.jpg" %}
 
 ## <center>"THEY ARE THE ONES"</center>
 
