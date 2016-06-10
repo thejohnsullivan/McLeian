@@ -52,7 +52,7 @@ Confusing and overwhelming moments filled with thoughts of not being good enough
 {% include image.html url="/assets/images/threeyears2.JPG" %}
 
 
-<center>**_A man can no more diminish God's glory by refusing to worship Him than a lunatic can put out the sun by scribbling the word 'darkness' on the walls of his cell._**</center>  
+**_<center>A man can no more diminish God's glory by refusing to worship Him than a lunatic can put out the sun by scribbling the word 'darkness' on the walls of his cell.</center>_**  
 <center>C.S. Lewis, The Problem of Pain</center>
 
 Two years in and I had lost my trust in Him. Out of self-reliance, stubbornness and bitterness, I could not find myself to be content with wherever God placed me in. Among all those who are in motion and within all that is dark, I could no longer find the sun. I simply found my faith at a **standstill**, without progress and without growth.
@@ -101,5 +101,5 @@ I’ve had these thoughts of leaving behind God ⎯⎯ of walking away⎯⎯ **B
 
 {% include image.html url="/assets/images/threeyears4.JPG" %}
 
-<center>So after three years, I still declare, **Jesus is Lord**.</center>  
-   <center>And now I can easily say, **I love you**.</center>  
+<center>So after three years, I still declare, "Jesus is Lord."</center>  
+   <center>And now I can easily say, "I love you."</center>  
