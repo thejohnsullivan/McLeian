@@ -35,11 +35,16 @@ November Sixth of that same year, I spontaneously got up from a quiet time and w
 
 {% include image.html url="/assets/images/threeyearsdelta.JPG" %}
 
-The following March, I got the phrase **_fides quaerens intellectum_** under my collar bone. Originating from Saint Anselm, the phrase means _faith seeking understanding_. My faith should not stop from when I had believed; it still requires work and persistent understanding. My love for God should not stop from when I had decided to give my life to Him; there is still so much to know about Him. And to seek a deeper knowledge of my faith in Him is what my life should be about. That is how I marked my life when I came out of the water.
+The following March, I got the phrase **_fides quaerens intellectum_** under my collar bone. Originating from Saint Anselm, the phrase means _faith seeking understanding_. My faith should not stop from when I had believed; it still requires work and persistent understanding. My love for God should not stop from when I had decided to give my life to Him; there is still so much to know about Him. And **to seek a deeper knowledge of my faith** in Him is what my life should be about. That is how I marked my life when I came out of the water.
 
-But even though I made this decision to follow God, it doesn’t mean I let Him into my life every single day. Some times I forget about Him. Some times I resent Him. Some times I find myself angry with Him. Some times I don’t live by His Word. And some times I refuse to love Him.
+But even though I made this decision to follow God, it doesn’t mean I let Him into my life every single day.
+Some times I forget about Him.
+Some times I resent Him.
+Some times I find myself angry with Him.
+Some times I don’t live by His Word.
+And some times I refuse to love Him.
 
-Three years ago, I had found myself confidently saying these three words: “Jesus is Lord.” And within three years with Him, there are times when I could not utter these three words: “I love you.”
+Three years ago, I had found myself confidently saying these three words: “**Jesus is Lord.**” And within three years with Him, there are times when I could not utter these three words: “*~I love you.~*”
 
 Confusing and overwhelming moments filled with thoughts of not being good enough and getting lost towards aims of perfection, I only lost touch with God. I forgot what it meant to be forgiven and what it meant to be free. I trapped myself again within four walls, without windows refusing to let any light in.
 
