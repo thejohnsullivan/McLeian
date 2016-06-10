@@ -48,7 +48,10 @@ Three years ago, I had found myself confidently saying these three words: “**J
 
 Confusing and overwhelming moments filled with thoughts of not being good enough and getting lost towards aims of perfection, I only lost touch with God. I forgot what it meant to be forgiven and what it meant to be free. I trapped myself again within four walls, without windows refusing to let any light in.
 
-“A man can no more diminish God's glory by refusing to worship Him than a lunatic can put out the sun by scribbling the word 'darkness' on the walls of his cell.” C.S. Lewis, The Problem of Pain
+{% include image.html url="/assets/images/threeyears2.JPG" %}
+
+<center>“*A man can no more diminish God's glory by refusing to worship Him than a lunatic can put out the sun by scribbling the word 'darkness' on the walls of his cell.*”</center>  
+<center>C.S. Lewis, The Problem of Pain</center>
 
 Two years in and I had lost my trust in Him. Out of self-reliance, stubbornness and bitterness, I could not find myself to be content with wherever God placed me in. Among all those who are in motion and within all that is dark, I could no longer find the sun. I simply found my faith at a standstill, without progress and without growth.
 
