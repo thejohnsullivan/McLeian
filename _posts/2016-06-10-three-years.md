@@ -48,38 +48,51 @@ Three years ago, I had found myself confidently saying these three words: “**J
 
 Confusing and overwhelming moments filled with thoughts of not being good enough and getting lost towards aims of perfection, I only lost touch with God. I forgot what it meant to be forgiven and what it meant to be free. I trapped myself again within four walls, without windows refusing to let any light in.
 
+
 {% include image.html url="/assets/images/threeyears2.JPG" %}
 
-<center>“*A man can no more diminish God's glory by refusing to worship Him than a lunatic can put out the sun by scribbling the word 'darkness' on the walls of his cell.*”</center>  
+
+<center>“**A man can no more diminish God's glory by refusing to worship Him than a lunatic can put out the sun by scribbling the word 'darkness' on the walls of his cell.**”</center>  
 <center>C.S. Lewis, The Problem of Pain</center>
 
-Two years in and I had lost my trust in Him. Out of self-reliance, stubbornness and bitterness, I could not find myself to be content with wherever God placed me in. Among all those who are in motion and within all that is dark, I could no longer find the sun. I simply found my faith at a standstill, without progress and without growth.
+Two years in and I had lost my trust in Him. Out of self-reliance, stubbornness and bitterness, I could not find myself to be content with wherever God placed me in. Among all those who are in motion and within all that is dark, I could no longer find the sun. I simply found my faith at a **standstill**, without progress and without growth.
 
-For a while, I didn’t know how to face my own fears and my own needs because I was too preoccupied feeling for others and satisfying their needs from me. I stopped reading the Bible. I stopped praying. I stopped letting anyone in. In believing He no longer loved me, I stopped loving Him. During a period of time, I let go of my relationship with God in order salvage some sort of hope. I moved my life in an uncomfortable direction in justifying what other people had believed to be the truth.
+For a while, I didn’t know how to face my own fears and my own needs because I was too preoccupied feeling for others and satisfying their needs.  
+   I stopped reading the Bible.  
+   I stopped praying.  
+   I stopped letting anyone in.  
+   In believing He no longer loved me, I stopped loving Him.  
+During this period of time, I let go of my relationship with God in order salvage some sort of hope. I moved my life in an uncomfortable direction in justifying what other people had believed to be the truth.
 
-So instead of living in His truth, I decided to run away. At times, it was better to be empty and to feel numb of all the heavy load I would’ve been carrying. Rather than reminding myself of that night I went underwater to bury my old self, I decided to drown myself in sin instead. I forgot what it had meant to surrender to God.
+So instead of living in His truth, I decided to **run away**. At times, it was better to be **empty** and to feel **numb** of all the heavy load I would’ve been carrying. Rather than reminding myself of that night I went underwater to bury my old self, I decided to force myself back into that darkness instead. I forgot what it had meant to surrender to God.
 
-In the summer of 2015, I had to opportunity to live like Jesus did, compassionate and selfless, serving the poor in the undeniably beautiful city of Budapest. These were twelve days I truly needed, to escape and to give back; to feel something inside that can inspire me to grow and to start wanting something again. With this, I took something back to Boston with me, a changed heart…that is what I needed in order to step forward towards the right direction.
+{% include image.html url="/assets/images/threeyears3.JPG" %}
 
-Still I had a lot to change, a lot to uncover and rediscover. Growing in contentment, in vulnerability, and in trust were my main focus. To challenge myself in breaking down the four walls ⎯⎯ that was the toughest part during this time of my journey.
+In the summer of 2015, I had to opportunity to live like Jesus did, compassionate and selfless, serving the poor in the undeniably beautiful city of Budapest. These were 12 days I truly needed, to escape and to give back; to feel something inside that can inspire me to grow and to start wanting something again. With this, I took something back to Boston with me, what I assumed was a changed heart…that is what I needed in order to step forward towards the right direction.
 
-I’ve had thoughts of leaving behind God, of walking away BUT where else would I be heading towards and would it be worth it?
+Still I had a lot to change, a lot to **uncover** and **rediscover**. Growing in contentment, in vulnerability, and in trust were my main focus. To challenge myself in breaking down the four walls ⎯⎯ that was the toughest part during this time of my journey.
 
-I had to believe that the world will come up empty and the only constant and unconditional fill I can get is from God, not from the world I decided to leave behind 3 years ago. 
+I’ve had these thoughts of leaving behind God, of walking away **BUT** where else would I be heading towards? And would it be worth it?
 
-I had to believe that it was okay to hurt. And to feel pain. That the difficult things are only temporary and somehow the dark clouds in my life will someday part and sunlight will shine on my face.
+<center>I had to believe that the world will come up empty and the only constant and unconditional fill I can get is from God, not from the world I decided to leave behind 3 years ago.</center>
 
-I had to believe that it was fine to feel broken and that heartache is part of this journey. It was okay to lose touch with people and to let go of them because God has worked out a better plan for all of us.
+<center>I had to believe that it was okay to hurt. And to feel pain. That the difficult things are only temporary and somehow the dark clouds in my life will someday part and sunlight will shine on my face.</center>
 
-I had to believe it made sense to feel sadness and to be depressed. It was okay to cry and beg for more because joy has been promised to me. And I can be happy if I let myself be happy.
+<center>I had to believe that it was fine to feel broken and that heartache is part of this journey. It was okay to lose touch with people and to let go of them because God has worked out a better plan for all of us.</center>
 
-I had to believe that loving God is more than simply recognizing Him. It also requires surrender. Love for Him also calls for loving and encouraging others.
+<center>I had to believe it made sense to feel sadness and to be depressed. It was okay to cry and beg for more because joy has been promised to me. And I can be happy if I let myself be happy.</center>
 
-I had to believe it was better to trust and to be vulnerable with the people in my life. To be open about the things I struggle with because these people I confide in will help me.
+<center>I had to believe that loving God is more than simply recognizing Him. It also requires surrender. Love for Him also calls for loving and encouraging others.</center>
 
-I had to believe that three years ago was the best day of my life.
+<center>I had to believe it was better to trust and to be vulnerable with the people in my life. To be open about the things I struggle with because these people I confide in will guide me in the righteous direction.</center>
 
-Even though I sometimes doubt and even though I sometimes run away, I have to believe that coming back to God every day is what’s best. It is what I have to do in order to be put back together. To be worth something.
+<center>I had to believe that three years ago was the best day of my life.</center>
 
-So after three years, I still declare, “Jesus is Lord.”
-And now I can easily say, “I love you.”
+<center>Even though I sometimes doubt and even though I sometimes run away, I have to believe that coming back to God every day is what’s best.</center>  
+   <center>It is what I have to do in order to be put back together.</center>  
+   <center>To be worth something.</center>  
+
+{% include image.html url="/assets/images/threeyears4.JPG" %}
+
+<center>So after three years, I still declare, “**Jesus is Lord.**”</center>  
+   <center>And now I can easily say, “**I love you.**”</center>  
