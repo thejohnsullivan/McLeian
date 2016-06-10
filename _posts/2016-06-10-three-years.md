@@ -91,7 +91,7 @@ I’ve had these thoughts of leaving behind God ⎯⎯ of walking away⎯⎯ **B
 ***
 
 {% include image.html url="/assets/images/threeyears5.JPG" %}
-> #####(photo by Danny Yu)
+> (photo by Danny Yu)
 
 ***
 
