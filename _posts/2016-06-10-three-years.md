@@ -33,6 +33,8 @@ Over the coming months, I had to force myself out of my comfort zone and forge f
 
 November Sixth of that same year, I spontaneously got up from a quiet time and went out to get my first set of tattoos: two equilateral triangles on both of my wrists. Before getting a tattoo one usually takes time to figure out what to get and where to get it done. But deciding on this moment actually did not take long. The delta symbol, signified by a triangle, means **change**. To me it symbolized **_renewal_** and **_repentance_**. I had gotten them on both wrists because it was difficult to hide; it would be a constant reminder to renew my mind and to repent every single day. There was no doubt nor a question on my mind whether or not I will one day regret these tattoos; I chose a life with God which meant that I chose a life of constant repentance.
 
+{% include image.html url="/assets/images/threeyearsdelta.JPG" %}
+
 The following March, I got the phrase **_fides quaerens intellectum_** under my collar bone. Originating from Saint Anselm, the phrase means _faith seeking understanding_. My faith should not stop from when I had believed; it still requires work and persistent understanding. My love for God should not stop from when I had decided to give my life to Him; there is still so much to know about Him. And to seek a deeper knowledge of my faith in Him is what my life should be about. That is how I marked my life when I came out of the water.
 
 But even though I made this decision to follow God, it doesn’t mean I let Him into my life every single day. Some times I forget about Him. Some times I resent Him. Some times I find myself angry with Him. Some times I don’t live by His Word. And some times I refuse to love Him.
