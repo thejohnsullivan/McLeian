@@ -87,7 +87,9 @@ In the summer of 2015, I had to opportunity to live like Jesus did, compassionat
 Still I had a lot to change, a lot to **uncover** and **rediscover**. Growing in contentment, in vulnerability, and in trust were my main focus. To challenge myself in breaking down the four walls ⎯⎯ that was the toughest part during this time of my journey.
 
 I’ve had these thoughts of leaving behind God ⎯⎯ of walking away⎯⎯ **BUT** where else would I be heading towards? And would it be worth it?
-***
+
+{% include image.html url="/assets/images/threeyears5.JPG" %}
+
 <center>I had to believe that the world will come up empty and the only constant and unconditional fill I can get is from God, not from the world I decided to leave behind 3 years ago.</center>
 ***
 <center>I had to believe that it was okay to hurt. And to feel pain. That the difficult things are only temporary and somehow the dark clouds in my life will someday part and sunlight will shine on my face.</center>
