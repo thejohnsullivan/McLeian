@@ -52,7 +52,7 @@ Confusing and overwhelming moments filled with thoughts of not being good enough
 {% include image.html url="/assets/images/threeyears2.JPG" %}
 
 
-<center>“A man can no more diminish God's glory by refusing to worship Him than a lunatic can put out the sun by scribbling the word 'darkness' on the walls of his cell.”</center>  
+<center>**_A man can no more diminish God's glory by refusing to worship Him than a lunatic can put out the sun by scribbling the word 'darkness' on the walls of his cell._**</center>  
 <center>C.S. Lewis, The Problem of Pain</center>
 
 Two years in and I had lost my trust in Him. Out of self-reliance, stubbornness and bitterness, I could not find myself to be content with wherever God placed me in. Among all those who are in motion and within all that is dark, I could no longer find the sun. I simply found my faith at a **standstill**, without progress and without growth.
@@ -72,7 +72,7 @@ In the summer of 2015, I had to opportunity to live like Jesus did, compassionat
 
 Still I had a lot to change, a lot to **uncover** and **rediscover**. Growing in contentment, in vulnerability, and in trust were my main focus. To challenge myself in breaking down the four walls ⎯⎯ that was the toughest part during this time of my journey.
 
-I’ve had these thoughts of leaving behind God, of walking away **BUT** where else would I be heading towards? And would it be worth it?
+I’ve had these thoughts of leaving behind God ⎯⎯ of walking away⎯⎯ **BUT** where else would I be heading towards? And would it be worth it?
 
 <center>I had to believe that the world will come up empty and the only constant and unconditional fill I can get is from God, not from the world I decided to leave behind 3 years ago.</center>
 
@@ -101,5 +101,5 @@ I’ve had these thoughts of leaving behind God, of walking away **BUT** where e
 
 {% include image.html url="/assets/images/threeyears4.JPG" %}
 
-<center>So after three years, I still declare, “Jesus is Lord.”</center>  
-   <center>And now I can easily say, “I love you.”</center>  
+<center>So after three years, I still declare, **Jesus is Lord**.</center>  
+   <center>And now I can easily say, **I love you**.</center>  
