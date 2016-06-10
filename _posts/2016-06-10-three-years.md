@@ -11,25 +11,25 @@ theme_color:  302F2D
 
 # <center>three years in the making</center>
 
-If faith requires love and if love is defined as a deep trust and a willingness to become free of all inhibitions then I must conclude that, for some time, it was difficult to love.
+If faith requires love and if love is defined as a deep trust and a willingness to become free of all inhibitions then I must conclude that, for some time, it was **difficult to love**.
 
-When I was searching for a Sudoku book I confidently believed I own (only to be disappointed and find a Kakuro book instead), I came across an old Moleskine that I used before I started studying the Bible. It was a bit crazy to read and see the changes in my thoughts and in my desires as I rifled through the pages. But I must admit that I have some these same thoughts every now and again.
+When I was searching for a Sudoku book I confidently believed I own ~~only to be disappointed and find a Kakuro book instead~~, I came across an old Moleskine that I used before I started studying the Bible. It was a bit crazy to read and see the changes in my thoughts and in my desires as I rifled through the pages. But I must admit that I have some these same thoughts every now and again.
 
-I’m still wanting. I’m still searching. I’m still yearning.
+I’m still **wanting**. I’m still **searching**. I’m **still yearning**.
 
 All these desires found a purpose. They found a reason years before.
 
 Journal entry (09/10/2012):
 
-“We would just wake up, live our lives, with everything handed to us at arm’s-length. On a silver platter, we’d find our voice, our truth, our world. But serve me on a paper plate. I am silent. I am sin. I am nothing. These walls that gave us security are closing in. These windows that gave us light are forcing us into the shadows. These monsters that hid under our beds are now sleeping in comfort next to us. We have become the thing we’ve feared the most…You can deny it for as long as you can. But how much further can you lie through those teeth? Purest in white; lost in darkness within.”
+> We would just wake up, live our lives, with everything handed to us at arm’s-length. On a silver platter, we’d find our voice, our truth, our world. But serve me on a paper plate. I am silent. I am sin. I am nothing. These walls that gave us security are closing in. These windows that gave us light are forcing us into the shadows. These monsters that hid under our beds are now sleeping in comfort next to us. We have become the thing we’ve feared the most…You can deny it for as long as you can. But how much further can you lie through those teeth? Purest in white; lost in darkness within.”
 
-Struggling to find a reason and a purpose for the life I was living, it was what made sense at the time…to begin trying to understand who God is and what His plans for me are. Even though I was hesitant and didn’t really know what was in store, just opening up the Bible was the brilliant catalyst that determined who I was to become. I remember before making the decision to get baptized, I struggled to see if I could make it as a disciple in this world. Knowing my insecurities and my temptations; I asked myself, “Is it fair to promise something to God if cannot make it in the end?” To me, it would’ve been time wasted if I failed. 
+Struggling to find a reason and a purpose for the life I was living, it was what made sense at the time…to begin trying to understand who God is and what His plans for me are. Even though I was hesitant and didn’t really know what was in store, just opening up the Bible was the brilliant catalyst that determined who I was to become. I remember before making the decision to get baptized, I struggled to see if I could make it as a disciple in this world. Knowing my insecurities and my temptations; I asked myself, “*Is it fair to promise something to God if cannot make it in the end?*” To me, it would’ve been time wasted if I failed. 
 
-After a few days, I refused to succumb to the doubts in my head. I had to realize that the point was to believe, to repent, to get baptized, and to live the life promised to me according His unchanging Word.
+After a few days, I refused to succumb to the doubts in my head. I had to realize that the point was to **_believe_**, to **_repent_**, to **_get baptized_**, and to finally **_live_**, with a life promised to me according His unchanging Word.
 
 On May Thirtieth of 2013, I came out of the disgusting Charles River feeling refreshed and renewed (cold and wet with laundry to do).
 
-Over the coming months, I had to force myself out of my comfort zone and forge friendships in order to survive. It was difficult to let go of my sense of self and to share my life with other people. I lived with a mentality of “no one else is worthy of my pain and no one else deserves my burdens except me”. And this would challenge me since I was stuck in this lonely cycle of having only myself to understand my insecurities and my shame.
+Over the coming months, I had to force myself out of my comfort zone and forge friendships in order to survive. It was difficult to let go of my sense of self and to share my life with other people. I lived with a mentality of “*no one else is worthy of my pain and no one else deserves my burdens except me.*" And this would challenge me since I was stuck in this lonely cycle of having only myself to understand my insecurities and my shame.
 
 November Sixth of that same year, I spontaneously got up from a quiet time and went out to get my first set of tattoos: two equilateral triangles on both of my wrists. Before getting a tattoo one usually takes time to figure out what to get and where to get it done. But deciding on this moment actually did not take long. The delta symbol, signified by a triangle, means change. To me it symbolized renewal and repentance. I had gotten them on both wrists because it was difficult to hide; it would be a constant reminder to renew my mind and repent every single day. There was no doubt nor there was a question on my mind whether or not I will one day regret these tattoos as I chose a life with God which also meant that I chose a life of constant repentance.
 
