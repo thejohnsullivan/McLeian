@@ -96,9 +96,9 @@ I’ve had these thoughts of leaving behind God ⎯⎯ of walking away⎯⎯ **B
 ***
 <center>I had to believe it made sense to feel sadness and to be depressed. It was okay to cry and beg for more because joy has been promised to me. And I can be happy if I let myself be happy.</center>
 ***
-<center>I had to believe that loving God is more than simply recognizing Him. It also requires surrender. Love for Him also calls for loving and encouraging others.</center>
+<center>I had to believe that loving God is more than simply recognizing Him. It requires surrender.</center>
 ***
-<center>I had to believe it was better to trust and to be vulnerable with the people in my life. To be open about the things I struggle with because these people I confide in will guide me in the righteous direction.</center>
+<center>I had to believe it was better to trust and to be vulnerable with the people in my life. To be open about the things I struggle with because these people, I confide in, will guide me back on the righteous path.</center>
 ***
 <center>I had to believe that three years ago was the best day of my life.</center>
 ***
