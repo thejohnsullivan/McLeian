@@ -98,7 +98,7 @@ I’ve had these thoughts of leaving behind God ⎯⎯ of walking away⎯⎯ **B
 ***
 <center>I had to believe that loving God is more than simply recognizing Him. It requires surrender.</center>
 ***
-<center>I had to believe it was better to trust and to be vulnerable with the people in my life. To be open about the things I struggle with because these people, I confide in, will guide me back on the righteous path.</center>
+<center>I had to believe it was better to trust and to be vulnerable with the people in my life. To be open about the things I struggle with because these people, the ones I confide in, will guide me back on the righteous path.</center>
 ***
 <center>I had to believe that three years ago was the best day of my life.</center>
 ***
