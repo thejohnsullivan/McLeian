@@ -73,28 +73,21 @@ In the summer of 2015, I had to opportunity to live like Jesus did, compassionat
 Still I had a lot to change, a lot to **uncover** and **rediscover**. Growing in contentment, in vulnerability, and in trust were my main focus. To challenge myself in breaking down the four walls ⎯⎯ that was the toughest part during this time of my journey.
 
 I’ve had these thoughts of leaving behind God ⎯⎯ of walking away⎯⎯ **BUT** where else would I be heading towards? And would it be worth it?
-
+***
 <center>I had to believe that the world will come up empty and the only constant and unconditional fill I can get is from God, not from the world I decided to leave behind 3 years ago.</center>
-
-
+***
 <center>I had to believe that it was okay to hurt. And to feel pain. That the difficult things are only temporary and somehow the dark clouds in my life will someday part and sunlight will shine on my face.</center>
-
-
+***
 <center>I had to believe that it was fine to feel broken and that heartache is part of this journey. It was okay to lose touch with people and to let go of them because God has worked out a better plan for all of us.</center>
-
-
+***
 <center>I had to believe it made sense to feel sadness and to be depressed. It was okay to cry and beg for more because joy has been promised to me. And I can be happy if I let myself be happy.</center>
-
-
+***
 <center>I had to believe that loving God is more than simply recognizing Him. It also requires surrender. Love for Him also calls for loving and encouraging others.</center>
-
-
+***
 <center>I had to believe it was better to trust and to be vulnerable with the people in my life. To be open about the things I struggle with because these people I confide in will guide me in the righteous direction.</center>
-
-
+***
 <center>I had to believe that three years ago was the best day of my life.</center>
-
-
+***
 <center>Even though I sometimes doubt and even though I sometimes run away, I have to believe that coming back to God every day is what’s best.</center>  
    <center>It is what I have to do in order to be put back together.</center>  
    <center>To be worth something.</center>  
