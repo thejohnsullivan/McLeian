@@ -13,11 +13,14 @@ theme_color:  302F2D
 
 If faith requires love and if love is defined as a deep trust and a willingness to become free of all inhibitions then I must conclude that, for some time, it was **difficult to love**.
 
-When I was searching for a Sudoku book I confidently believed I own ~~only to be disappointed and find a Kakuro book instead~~, I came across an old Moleskine that I used before I started studying the Bible. It was a bit crazy to read and see the changes in my thoughts and in my desires as I rifled through the pages. But I must admit that I have some these same thoughts every now and again.
+When I was searching for a Sudoku book I confidently believed I own ~~only to be disappointed and find a Kakuro book instead~~, I came across an old Moleskine that I used before I started studying the Bible. It was a bit crazy to read and to see the changes in my thoughts and in my desires as I rifled through the pages. But I must admit that I have some these same thoughts every now and again.
 
 I’m still **wanting**. I’m still **searching**. I’m **still yearning**.
 
-All these desires found a purpose. They found a reason years before.
+All these desires found a purpose.  
+   They found a reason years before.
+
+***
 
 Journal entry (09/10/2012):
 
@@ -35,11 +38,11 @@ Over the coming months, I had to force myself out of my comfort zone and forge f
 
 ***
 
-November Sixth of that same year, I spontaneously got up from a quiet time and went out to get my first set of tattoos: two equilateral triangles on both of my wrists. Before getting a tattoo one usually takes time to figure out what to get and where to get it done. But deciding on this moment actually did not take long. The delta symbol, signified by a triangle, means **change**. To me it symbolized **_renewal_** and **_repentance_**. I had gotten them on both wrists because it was difficult to hide; it would be a constant reminder to renew my mind and to repent every single day. There was no doubt nor a question on my mind whether or not I will one day regret these tattoos; I chose a life with God which meant that I chose a life of constant repentance.
+November Sixth of that same year, I spontaneously got up from a quiet time and went out to get my first set of tattoos: two equilateral triangles on both of my wrists. Before getting a tattoo one usually takes time to figure out what to get and where to get it done. But deciding on this moment actually did not take long. The delta symbol, signified by a triangle, means **change**. To me, it symbolized **_renewal_** and **_repentance_**. I had gotten them on both wrists because it was difficult to hide; it would be a constant reminder to renew my mind and to repent every single day. There was no doubt nor a question on my mind whether or not I will one day regret these tattoos since I chose a life with God which meant that I chose a life of constant repentance.
 
 {% include image.html url="/assets/images/threeyearsdelta.JPG" %}
 
-The following March, I got the phrase **_fides quaerens intellectum_** under my collar bone. Originating from Saint Anselm, the phrase means _faith seeking understanding_. My faith should not stop from when I had believed; it still requires work and persistent understanding. My love for God should not stop from when I had decided to give my life to Him; there is still so much to know about Him. And **to seek a deeper knowledge of my faith** in Him is what my life should be about. That is how I marked my life when I came out of the water.
+The following March, I got the phrase **_fides quaerens intellectum_** under my collar bone. Originating from Saint Anselm, the phrase means _faith seeking understanding_. My faith should not stop from when I had believed; it still requires work and persistent understanding. My love for God should not stop from when I had decided to give my life to Him; there is still so much to know about Him. And **to seek a deeper knowledge of my faith** is what my life should be about. That is how I marked my life when I came out of the water.
 
 ***
 
@@ -52,9 +55,10 @@ But even though I made this decision to follow God, it doesn’t mean I let Him 
 
 ***
 
-Three years ago, I had found myself confidently saying these three words: “**Jesus is Lord.**” And within three years with Him, there are times when I could not utter these three words: “*I love you.*”
+Three years ago, I had found myself confidently saying these three words: “**Jesus is Lord.**”  
+   And within three years with Him, there are times when I could not utter these three words: “*I love you.*”
 
-Confusing and overwhelming moments filled with thoughts of not being good enough and getting lost towards aims of perfection, I only lost touch with God. I forgot what it meant to be forgiven and what it meant to be free. I trapped myself again within four walls, without windows refusing to let any light in.
+Confusing and overwhelming moments filled with thoughts of not being good enough and getting lost towards aims of perfection, I only lost touch with God. I forgot what it meant to be forgiven and what it meant to be free. I trapped myself again within four walls, without windows, refusing to let any light in.
 
 
 {% include image.html url="/assets/images/threeyears2.JPG" %}
@@ -65,7 +69,11 @@ Confusing and overwhelming moments filled with thoughts of not being good enough
 
 ***
 
-Two years in and I had lost my trust in Him. Out of self-reliance, stubbornness and bitterness, I could not find myself to be content with wherever God placed me in. Among all those who are in motion and within all that is dark, I could no longer find the sun. I simply found my faith at a **standstill**, without progress and without growth.
+Two years in and I had lost my trust in Him. Out of self-reliance, stubbornness and bitterness, I could not find myself to be content with wherever God placed me in.
+
+***
+
+Among all those who are in motion and within all that is dark, I could no longer find the sun. I simply found my faith at a **standstill**, without progress and without growth.
 
 ***
 
@@ -74,19 +82,19 @@ For a while, I didn’t know how to face my own fears and my own needs because I
    I stopped praying.  
    I stopped letting anyone in.  
    In believing He no longer loved me, I stopped loving Him.  
-During this period of time, I let go of my relationship with God in order salvage some sort of hope. I moved my life in an uncomfortable direction in justifying what other people had believed to be the truth.
+During this period of time, I let go of my relationship with God in order to salvage some sort of hope. I moved my life in an uncomfortable direction in justifying other people's feelings, in justifying what other people had believed to be the truth.
 
 ***
 
-So instead of living in His truth, I decided to **run away**. At times, it was better to be **empty** and to feel **numb** of all the heavy load I would’ve been carrying. Rather than reminding myself of that night I went underwater to bury my old self, I decided to force myself back into that darkness instead. I forgot what it had meant to surrender to God.
+So instead of living in His truth, I decided to **run away**. At times, it was better to be **empty** and to feel **numb** of all the heavy load I would’ve been carrying. Rather than reminding myself of that night I went underwater to bury my old self, I forced myself back into the darkness instead. I forgot what it had meant to surrender to God.
 
 {% include image.html url="/assets/images/threeyears3.JPG" %}
 
-In the summer of 2015, I had to opportunity to live like Jesus did, compassionate and selfless, serving the poor in the undeniably beautiful city of Budapest. These were 12 days I truly needed, to escape and to give back; to feel something inside that can inspire me to grow and to start wanting something again. With this, I took something back to Boston with me, what I assumed was a changed heart…that is what I needed in order to step forward towards the right direction.
+In the summer of 2015, I had the opportunity to live like Jesus did, compassionate and selfless, serving the poor in the undeniably beautiful city of Budapest. These were 12 days I truly needed, to escape and to give back; to feel something inside that can inspire me to grow and to start wanting something again. With this, I took something back to Boston with me, what I assumed was a changed heart…that is what I needed in order to step forward towards the right direction.
 
 Still I had a lot to change, a lot to **uncover** and **rediscover**. Growing in contentment, in vulnerability, and in trust were my main focus. To challenge myself in breaking down the four walls ⎯⎯ that was the toughest part during this time of my journey.
 
-I’ve had these thoughts of leaving behind God ⎯⎯ of walking away⎯⎯ **BUT** where else would I be heading towards? And would it be worth it?
+I’ve had thoughts of leaving behind God ⎯⎯ of walking away⎯⎯ **BUT** where else would I be heading towards? And would it be worth it?
 
 ***
 
