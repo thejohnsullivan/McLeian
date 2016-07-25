@@ -11,7 +11,7 @@ theme_color:  302F2D
 
 ## <center>"THEY ARE THE ONES"</center>
 
-{% include image.html url="/assets/images/John-14.jpg" %}
+{% include image.html url="/assets/images/John-14.JPG" %}
 
 ### <center>WEEK THREE</center>
 
