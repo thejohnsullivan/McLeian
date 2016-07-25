@@ -37,7 +37,7 @@ During our free time, you might find us in our living room watching Netflix even
 
 {% include image.html url="/assets/images/John-9.JPG" %}
 
-Last summer, John spent 6 months in California interning and working at the Apple campus. Going over there to spend a weekend with him was a much-needed time. He showed me around San Francisco and brought me down the Hecka Cool coast.
+Last summer, John spent 6 months in California interning and working at the Apple campus. Going over there to spend a weekend with him was much-needed time. He showed me around San Francisco and brought me down the Hecka Cool coast.
 
 ***
 
@@ -66,6 +66,6 @@ We’ve seen the world and we dream on seeing and experiencing the rest of it, r
 
 ***
 
-John has recently asked the woman he so well-deserves, Madeleine, to be his wife. I cannot wait to watch him mature even more as he prepares to take this new step in his life.
+John has recently asked the woman he so well-deserves, Madeleine, to be his wife. I cannot wait to watch him mature even more as he prepares to take on this new step in his life, with her by his side. I do not doubt that he will grow into a more faithful and stronger disciple.
 
 {% include image.html url="/assets/images/John-15.JPG" %}
