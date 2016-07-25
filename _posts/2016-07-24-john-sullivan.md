@@ -48,7 +48,7 @@ Last summer, John spent 6 months in California interning and working at the Appl
 
 Even though I am older than he is, most of the time I can see him as an older brother. He has taught me how to appreciate life and how to rediscover my love for God. He is a constant reminder of what a man of God I need to be.
 
-{% include image.html url="/assets/images/John-11.JPG" %}
+{% include image.html url="/assets/images/John-12.JPG" %}
 
 As we say and do some of the most foolish of things (mostly our stupid yet amazing remixes to songs), any time spent with John is quite memorable. Our trips to Plum Island, Walden Pond, and even just to Chick-Fil-A, our excursions away from the norm is as important to us as simply relaxing and staying inside our apartment.
 
