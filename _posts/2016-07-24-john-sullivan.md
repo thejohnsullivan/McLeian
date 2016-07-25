@@ -41,7 +41,7 @@ Last summer, John spent 6 months in California interning and working at the Appl
 
 ***
 
-<center>**"In my walks, every man I meet is my superior in some way, and in that I learn from him."**</center>  
+**_<center>"In my walks, every man I meet is my superior in some way, and in that I learn from him."</center>_**  
    <center>Ralph Waldo Emerson</center>
 
 ***
