@@ -27,7 +27,7 @@ theme_color:  302F2D
 
 One of my earliest memories of John was when he enthusiastically explained to me about “this guy who got baptized from this Footloose musical,” not knowing that he was talking to the THE exact guy.
 
-{% include image.html url="/assets/images/John-7.JPG" %}
+{% include image.html url="/assets/images/John-11.JPG" %}
 
 Our friendship undeniably took a little bit of time but he has been there for me and seen me through some of the difficult moments in my life. Through advice and through some refreshing talks, he’s definitely helped me in understanding my purpose as a disciple.
 
