@@ -46,7 +46,7 @@ Last summer, John spent 6 months in California interning and working at the Appl
 
 ***
 
-Even though I am older than he is, most of the time I can see him as an older brother. He has taught me how to appreciate life and how to rediscover my love for God.
+Even though I am older than he is, most of the time I can see him as an older brother. He has taught me how to appreciate life and how to rediscover my love for God. He is a constant reminder of what a man of God I need to be.
 
 {% include image.html url="/assets/images/John-11.JPG" %}
 
@@ -56,21 +56,20 @@ As we say and do some of the most foolish of things, any time spent with John is
 
 He has watched me jump because my own shadow, has heard me say random words in a french accent and we make up some of the greatest remixes of songs.
 
-{% include image.html url="/assets/images/malcolm10.JPG" %}
+{% include image.html url="/assets/images/John-4.JPG" %}
 
-Malcolm is one of the most loyal people out there. He is thoroughly invested in his friendships, aiming to know and understand each person in his life.
+One thing I appreciate about his character is his willingness to build on his friendships, strengthening the bond beyond roommates but forming a brotherhood that will likely last a lifetime.
 
 ***
 
-This summer he is serving as a Global Service Intern in a HOPE Youth Corps program for HOPE Worldwide, a dream he’s had for a while.
+This past March, we endeavored on an unforgettable journey around Iceland. I honestly cannot picture being on that trip without him.
 
-<section>
-	<img width="49%" src="/assets/images/malcolm11.JPG">
-	<img width="49%" src="/assets/images/malcolm12.JPG">
-</section>
+{% include image.html url="/assets/images/John-5.JPG" %}
 
-I am excited to see where the next year takes this guy as he fulfills and checks off one personal and spiritual goal at a time.
+We’ve seen the world and we dream on seeing and experiencing the rest of it, reaching every corner and calling out into the unknown.
 
-{% include image.html url="/assets/images/malcolm13.JPG" %}
+{% include image.html url="/assets/images/John-13.JPG" %}
 
-I am so thankful for him and his consistent friendship. #TANdays
+John has recently asked the woman of he so well-deserves, Madeleine, to be his wife. I cannot wait to watch him mature even more as he prepares to take this new step in his life.
+
+{% include image.html url="/assets/images/John-15.JPG" %}
