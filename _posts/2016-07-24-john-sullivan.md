@@ -56,7 +56,7 @@ As we say and do some of the most foolish of things, any time spent with John is
 
 He has watched me jump because my own shadow, has heard me say random words in a french accent and we make up some of the greatest remixes of songs.
 
-{% include image.html url="/assets/images/John-4.JPG" %}
+{% include image.html url="/assets/images/John-5.JPG" %}
 
 One thing I appreciate about his character is his willingness to build on his friendships, strengthening the bond beyond roommates but forming a brotherhood that will likely last a lifetime.
 
@@ -64,11 +64,11 @@ One thing I appreciate about his character is his willingness to build on his fr
 
 This past March, we endeavored on an unforgettable journey around Iceland. I honestly cannot picture being on that trip without him.
 
-{% include image.html url="/assets/images/John-5.JPG" %}
+{% include image.html url="/assets/images/John-13.JPG" %}
 
 We’ve seen the world and we dream on seeing and experiencing the rest of it, reaching every corner and calling out into the unknown.
 
-{% include image.html url="/assets/images/John-13.JPG" %}
+***
 
 John has recently asked the woman of he so well-deserves, Madeleine, to be his wife. I cannot wait to watch him mature even more as he prepares to take this new step in his life.
 
