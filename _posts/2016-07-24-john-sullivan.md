@@ -50,11 +50,7 @@ Even though I am older than he is, most of the time I can see him as an older br
 
 {% include image.html url="/assets/images/John-11.JPG" %}
 
-As we say and do some of the most foolish of things, any time spent with John is quite memorable. Our trips to Plum Island, Walden Pond, and even just to Chick-Fil-A, our excursions away from the norm is as important to us as simply relaxing and staying inside our apartment.
-
-***
-
-He has watched me jump because my own shadow, has heard me say random words in a french accent and we make up some of the greatest remixes of songs.
+As we say and do some of the most foolish of things (mostly our stupid yet amazing remixes to songs), any time spent with John is quite memorable. Our trips to Plum Island, Walden Pond, and even just to Chick-Fil-A, our excursions away from the norm is as important to us as simply relaxing and staying inside our apartment.
 
 {% include image.html url="/assets/images/John-5.JPG" %}
 
@@ -70,6 +66,6 @@ We’ve seen the world and we dream on seeing and experiencing the rest of it, r
 
 ***
 
-John has recently asked the woman of he so well-deserves, Madeleine, to be his wife. I cannot wait to watch him mature even more as he prepares to take this new step in his life.
+John has recently asked the woman he so well-deserves, Madeleine, to be his wife. I cannot wait to watch him mature even more as he prepares to take this new step in his life.
 
 {% include image.html url="/assets/images/John-15.JPG" %}
