@@ -19,38 +19,76 @@ theme_color:  302F2D
 
    *<center>and dream often.</center>*
    
-II. Use my talents,
+***
+   
+##  <center>ii. use my talents</center>
 
-And be proud of them.
+***
 
-III. Move somewhere,
+   *<center>and never underestimate myself.</center>*
+   
+***
 
-And be moved.
+##  <center>iii. move somewhere</center>
 
-IV. Love God deeper,
+***
 
-And let His love sink in.
+   *<center>and be moved.</center>*
+   
+***
 
-V. Write more,
+##  <center>iv. love God deeper</center>
 
-And read more.
+***
 
-VI. Work on discipline,
+   *<center>and let His love sink in.</center>*
+   
+***
 
-And challenge myself.
+##  <center>v. write more</center>
 
-VII. Spend less,
+***
 
-And invest in others.
+   *<center>and read more.</center>*
+   
+***
 
-VIII. Yearn for happiness,
+##  <center>vi. work on discipline</center>
 
-And carry this joy always.
+***
 
-IX. Allow others to serve me,
+   *<center>and challenge myself.</center>*
+   
+***
 
-And cherish their servitude.
+##  <center>vii. spend less</center>
 
-X. Find confidence,
+***
 
-And inspire others.
+   *<center>and invest in others.</center>*
+   
+***
+
+##  <center>viii. yearn for happiness</center>
+
+***
+
+   *<center>and carry this joy always.</center>*
+   
+***
+
+##  <center>ix. allow others to serve me</center>
+
+***
+
+   *<center>and cherish their servitude.</center>*
+
+***
+
+##  <center>x. find confidence</center>
+
+***
+
+   *<center>and inspire others.</center>*
+   
+***
