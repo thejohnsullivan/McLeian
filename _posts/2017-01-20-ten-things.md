@@ -9,15 +9,15 @@ comments: true
 theme_color:  302F2D
 ---
 
-## <center>ten things for twenty-seventeen</center>  
+# <center>ten things for twenty-seventeen</center>  
 
 ***
 
-#  <center>i. **dream bigger**</center>
+##  <center>i. dream bigger</center>
 
 ***
 
-   <center>and dream often.</center>
+   *<center>and dream often.</center>*
    
 II. Use my talents,
 
