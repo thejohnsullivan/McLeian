@@ -3,7 +3,7 @@ layout: post
 title:  "ten things for twenty-seventeen"
 quote:  "I will exalt you, Lord, for you lifted me out of the depths."
 image:
-      url:  /assets/images/enough2.JPG
+      url:  /assets/images/tenthings.JPG
 video:  false
 comments: true
 theme_color:  302F2D
