@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “Cassie Capewell”
+title:  Cassie Capewell
 quote:  “Heaven is the ultimate dream.”
 image:
       url:  /assets/images/Cassie-6.JPG
