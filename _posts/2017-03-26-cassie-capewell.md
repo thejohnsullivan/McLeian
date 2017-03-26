@@ -41,7 +41,7 @@ Cassie and I really grew in our friendship once we transitioned out of the Campu
 
 ***
 
-“I think I have learned over the past few years that God created relationships to be such a special thing and heaven is the ultimate dream, obviously, but here on earth, I feel like friendships are so special and little piece of heaven on earth.
+“I think I have learned over the past few years that God created relationships to be such a special thing and heaven is the ultimate dream, obviously, but here on earth, I feel like friendships are so special and a little piece of heaven on earth."
 
 ***
 
