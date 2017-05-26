@@ -61,4 +61,4 @@ Life can be challenging and to understand the difficulties we have to go through
 
 “I just feel so blessed and thankful for what God has given me and the fact that I have a relationship with God. And it’s what motivates me to want this for other people as well.”
 
-<iframe width="100%" src="https://www.youtube.com/embed/Ow8W9kk_-e4" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/Ow8W9kk_-e4" frameborder="0" allowfullscreen></iframe>
