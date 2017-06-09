@@ -3,7 +3,7 @@ layout: post
 title:  Braelan Martin
 quote:  
 image:
-      url:  /assets/images/Braelan-.JPG
+      url:  /assets/images/Braelan-1.JPG
 video:  false
 comments: true
 theme_color:  302F2D
@@ -13,7 +13,7 @@ theme_color:  302F2D
 
 ***
 
-{% include image.html url="/assets/images/Braelan-.JPG" %}
+{% include image.html url="/assets/images/Braelan-2.JPG" %}
 
 ***
 
@@ -23,7 +23,7 @@ theme_color:  302F2D
 
 ***
 
-{% include image.html url="/assets/images/Braelan-.JPG" %}
+{% include image.html url="/assets/images/Braelan-3.JPG" %}
 
 ***
 
@@ -31,7 +31,7 @@ Braelan is one of the most supportive and compassionate people that I know. Inve
 
 ***
 
-{% include image.html url="/assets/images/Braelan-.JPG" %}
+{% include image.html url="/assets/images/Braelan-4.JPG" %}
 
 ***
 
@@ -46,7 +46,7 @@ What really inspires me about Braelan is her perseverance. Even though trust in 
 
 When she speaks of the struggles she had to push through and continue to push through as a disciple, it reminds me of the scripture in Philippians. It is so easy to believe and to love and to trust God, and especially to feel blessed by Him, when things are going our way. But when things seem tough, it’s even easier to waver from our faith because the way we see our lives is not what we initially had expected or intended. Philippians 1:29 reminds me that believing in him also requires of me not to flee from my faith when things are too painful to deal with.
 
-{% include image.html url="/assets/images/Braelan-.JPG" %}
+{% include image.html url="/assets/images/Braelan-5.JPG" %}
 
 ***
 
@@ -54,7 +54,7 @@ In reviving my confidence in God and in my sense of self, Braelan played an impo
 
 ***
 
-{% include image.html url="/assets/images/Braelan-.JPG" %}
+{% include image.html url="/assets/images/Braelan-6.JPG" %}
 
 
 ***
