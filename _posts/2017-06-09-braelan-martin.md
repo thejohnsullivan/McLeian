@@ -44,7 +44,7 @@ What really inspires me about Braelan is her perseverance. Even though trust in 
 
 ***
 
-When she speaks of the struggles she had to push through and continue to push through as a disciple, it reminds me of the scripture in Philippians. It is so easy to believe and to love and to trust God, and especially to feel blessed by Him, when things are going our way. But when things seem tough, it’s even easier to waver from our faith because the way we see our lives is not what we initially had expected or intended. Philippians 1:29 reminds me that believing in him also requires of me not to flee from my faith when things are too painful to deal with.
+It is so easy to believe and to love and to trust God, and especially to feel blessed by Him, when things are going our way. But when things seem tough, it’s even easier to waver from our faith because the way we see our lives is not what we initially had expected or intended. When she shares one of her go-to scriptures, Philippians 1:29, she reminds me that believing in him also requires of us not to flee from our faith when things are too painful to deal with.
 
 {% include image.html url="/assets/images/Braelan-5.JPG" %}
 
