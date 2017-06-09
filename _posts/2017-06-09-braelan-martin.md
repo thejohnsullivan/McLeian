@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Braelan Martin
-quote:  
+quote:  I had to realize that my relationship with God wasn't contingent on how well I felt or how happy I was.
 image:
       url:  /assets/images/Braelan-1.JPG
 video:  false
