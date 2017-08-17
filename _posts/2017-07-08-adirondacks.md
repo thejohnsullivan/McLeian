@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  adirondacks
-quote:  
+quote:  climb the mountains and get their good tidings.
 image:
       url:  /assets/images/adirondacks-4.JPG
 video:  false
