@@ -20,11 +20,11 @@ theme_color:  302F2D
 
 ***
 
-{% include image.html url="/assets/images/SM-2" %}
+{% include image.html url="/assets/images/SM-2.JPG" %}
 
 ***
 
-{% include image.html url="/assets/images/SM-7" %}
+{% include image.html url="/assets/images/SM-7.JPG" %}
 
 ***
 
@@ -39,11 +39,11 @@ theme_color:  302F2D
 
 ***
 
-{% include image.html url="/assets/images/SM-13.jpeg" %}
+{% include image.html url="/assets/images/SM-13.JPG" %}
 
 ***
 
-{% include image.html url="/assets/images/SM-17.jpeg" %}
+{% include image.html url="/assets/images/SM-17.JPG" %}
 
 ***
 
@@ -54,7 +54,7 @@ theme_color:  302F2D
 
 ***
 
-{% include image.html url="/assets/images/SM-20.jpeg" %}
+{% include image.html url="/assets/images/SM-20.JPG" %}
 
 ***
 
@@ -65,19 +65,19 @@ theme_color:  302F2D
 
 ***
 
-{% include image.html url="/assets/images/SM-25.jpeg" %}
+{% include image.html url="/assets/images/SM-25.JPG" %}
 
 ***
 
-{% include image.html url="/assets/images/SM-27.jpeg" %}
+{% include image.html url="/assets/images/SM-27.JPG" %}
 
 ***
 
-{% include image.html url="/assets/images/SM-26.jpeg" %}
+{% include image.html url="/assets/images/SM-26.JPG" %}
 
 ***
 
-{% include image.html url="/assets/images/SM-32.jpeg" %}
+{% include image.html url="/assets/images/SM-32.JPG" %}
 
 ***
 
@@ -88,7 +88,7 @@ theme_color:  302F2D
 
 ***
 
-{% include image.html url="/assets/images/SM-34.jpeg" %}
+{% include image.html url="/assets/images/SM-34.JPG" %}
 
 ***
 
@@ -99,19 +99,19 @@ theme_color:  302F2D
 
 ***
 
-{% include image.html url="/assets/images/SM-41.jpeg" %}
+{% include image.html url="/assets/images/SM-41.JPG" %}
 
 ***
 
-{% include image.html url="/assets/images/SM-39.jpeg" %}
+{% include image.html url="/assets/images/SM-39.JPG" %}
 
 ***
 
-{% include image.html url="/assets/images/SM-43.jpeg" %}
+{% include image.html url="/assets/images/SM-43.JPG" %}
 
 ***
 
-{% include image.html url="/assets/images/SM-45.jpeg" %}
+{% include image.html url="/assets/images/SM-45.JPG" %}
 
 ***
 
@@ -122,19 +122,19 @@ theme_color:  302F2D
 
 ***
 
-{% include image.html url="/assets/images/SM-52.jpeg" %}
+{% include image.html url="/assets/images/SM-52.JPG" %}
 
 ***
 
-{% include image.html url="/assets/images/SM-53.jpeg" %}
+{% include image.html url="/assets/images/SM-53.JPG" %}
 
 ***
 
-{% include image.html url="/assets/images/SM-55.jpeg" %}
+{% include image.html url="/assets/images/SM-55.JPG" %}
 
 ***
 
-{% include image.html url="/assets/images/SM-56.jpeg" %}
+{% include image.html url="/assets/images/SM-56.JPG" %}
 
 ***
 
@@ -145,6 +145,6 @@ theme_color:  302F2D
 
 ***
 
-{% include image.html url="/assets/images/SM-58.jpeg" %}
+{% include image.html url="/assets/images/SM-58.JPG" %}
 
 ***
