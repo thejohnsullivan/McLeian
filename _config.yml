@@ -41,10 +41,6 @@ social:
     url:          http://youtube.com/c/McLeianCaudilla
     desc:         subscribe
     
-  - icon:         vimeo
-    url:          http://vimeo.com/mcleian
-    desc:         watch
-    
   - icon:         genericon-spotify
     url:          https://open.spotify.com/user/1210230561
     desc:         listen
